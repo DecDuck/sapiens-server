@@ -4,6 +4,7 @@ Some helpful scripts for running a Sapiens dedicated server on Linux. Designed t
 Been tested on:
  - `ubuntu:noble` Docker image
  - EC2 AWS instance (Ubuntu 24)
+ - DigitalOcean droplet
 
 ## Installation
 
